@@ -1,4 +1,4 @@
-![Cover](https://github.com/nephcode/underconstruction/blob/main/images/github/githubReadmeHeader.png)
+![Cover](https://kpkfzczpavanzocxzyta.supabase.co/storage/v1/object/public/alyra/readme-alyra-04-header.png)
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
@@ -10,8 +10,8 @@ Personal template first init
 
 | WHAT FOR               | WHEN         |
 | :--------------------- | ------------ |
-| Deadline MVP           | `18-03-2024` |
-| Deadline CERTIFICATION | `15-04-2024` |
+| Deadline MVP           | `10-11-2024` |
+| Deadline CERTIFICATION | `latest` |
 
 
 ## INFORMATIONS
@@ -30,7 +30,7 @@ Personal template first init
 
 | TECHNO   | SPEC   |
 | :------- | ------ |
-| FRONTEND | `SASS` |
+| BACKTEND | `JEST` |
 
 ## RUNNING THE APPS
 
@@ -42,4 +42,4 @@ git branch release
 
 ```
 
-![Cover](https://github.com/nephcode/underconstruction/blob/main/images/github/githubReadmeFooter.png)
+![Cover](https://kpkfzczpavanzocxzyta.supabase.co/storage/v1/object/public/alyra/readme-alyra-04-footer.png)
